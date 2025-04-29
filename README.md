@@ -121,6 +121,25 @@ Exemplo de inserção:
 
 ---
 
+Por último, foi solicitado à IA que resumisse o que era Copilot e OpenAI. Obtivemos a seguinte resposta:
+
+        O Copilot é uma ferramenta de inteligência artificial desenvolvida pela Microsoft para ajudar
+        os usuários em diversas tarefas, como programação, redação e brainstorming.
+        Ele utiliza modelos avançados de linguagem para oferecer suporte em tempo real,
+        tornando o trabalho mais eficiente e criativo.
+        O Copilot está integrado em várias plataformas, como GitHub e Microsoft 365,
+        e é projetado para ser um "parceiro de trabalho" que colabora com você em seus projetos.
+        Já a OpenAI é uma organização de pesquisa em inteligência artificial
+        que busca criar tecnologias avançadas para beneficiar a humanidade.
+        Ela é conhecida por desenvolver modelos de linguagem como o GPT, que são usados em
+        diversas aplicações, incluindo o GitHub Copilot.
+        A OpenAI também trabalha em áreas como aprendizado por reforço e geração de imagens,
+        sempre com foco em segurança e ética no uso da IA.
+        
+        Se quiser saber mais sobre como essas tecnologias podem ser úteis para você, é só perguntar! 😊
+
+---
+
 ### COMO ME ENCONTRAR?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeloliveirarso/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeloliveirarso)
