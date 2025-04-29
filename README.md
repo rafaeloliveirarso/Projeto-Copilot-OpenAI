@@ -1,6 +1,6 @@
 # Projeto Copilot e OpenIA
 
-Foi utilizado o Copilot para interagir e gerar exemplos práticos do que ele pode gerar.
+Foi utilizado o Copilot para interagir e gerar exemplos práticos do que ele pode ser capaz.
 Abaixo, a transcrição de cada solicitação.
 
 ---
